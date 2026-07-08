@@ -1,8 +1,10 @@
 # Nicolas Henin
 
-Hands-on technical architect and Haskell engineer working at the boundary between protocol research, applied cryptography, and production delivery.
+**Hands-on CTO / Founding Technical Lead | Functional-programming blockchain systems | Haskell / Plutus / ZK | Research-to-production | Cardano @ IOG**
 
-I am currently a Technical Architect at Input Output, focused on Cardano innovation workstreams. My work usually starts with an ambiguous research or product problem, then moves through architecture, implementation, governance, and delivery. I still write the code when that is the fastest way to keep the design honest.
+I am a hands-on technical leader: I frame hard problems, decide the architecture, lead small teams, and still write the Haskell that ships it.
+
+For 4+ years at Input Output (IOG/IOHK), I have worked at the core of Cardano, where peer-reviewed cryptography meets production code and protocol governance. My edge is taking work from research paper to working system without losing rigor on either side.
 
 I work mostly with Haskell, Plutus, Marlowe, TypeScript, Scala, Rust, Nix, protocol design, DSLs, smart contracts, consensus systems, event sourcing, and formal-methods-oriented engineering.
 
@@ -23,7 +25,7 @@ I work mostly with Haskell, Plutus, Marlowe, TypeScript, Scala, Rust, Nix, proto
 - [Marlowe Payouts prototype](https://github.com/marlowe-lang/marlowe-payouts) - generic payouts-withdrawal DApp prototype built on Marlowe technology and the TypeScript SDK.
 - [Marlowe Token Plans prototype](https://github.com/marlowe-lang/marlowe-token-plans) - token vesting/plans DApp prototype built on Marlowe technology, including the vesting-contract flow exercised from the SDK examples.
 - [Tokenomia](https://github.com/smart-chain-fr/tokenomia) - Haskell/Plutus tooling for Cardano native tokens, vesting, mint/burn flows, wallet operations, and ICO mechanics for Cardashift.
-- World Mobile EarthNode smart contracts - end-to-end Plutus delivery on Cardano mainnet, taken through external audit by Runtime Verification.
+- [World Mobile EarthNode smart contracts](https://github.com/worldmobilegroup/earthnode-registration-plutus-smart-contract) - end-to-end Plutus delivery for Cardano EarthNode NFT registration/claiming, taken through an external [Runtime Verification audit](https://runtimeverification.com/blog/runtime-verification-audits-world-mobile-earthnode).
 
 ### Earlier systems and leadership
 
