@@ -26,7 +26,7 @@ I work mostly with Haskell, Plutus, Marlowe, TypeScript, Scala, Rust, Nix, proto
 - [Marlowe Token Plans prototype](https://github.com/marlowe-lang/marlowe-token-plans) - token vesting/plans DApp prototype built on Marlowe technology, including the vesting-contract flow exercised from the SDK examples.
 - [Tokenomia](https://github.com/smart-chain-fr/tokenomia) - Haskell/Plutus tooling for Cardano native tokens, vesting, mint/burn flows, wallet operations, and ICO mechanics for Cardashift.
 - [World Mobile ENNFT ownership contract](https://resources.cryptocompare.com/asset-management/886/1701083365531.pdf) - first EarthNode Plutus contract for NFT ownership/claiming; the public audit identifies `worldmobilegroup/ennft-mgr` commit `c26a089...`, later reviewed by [Runtime Verification](https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/WorldMobileGroup.pdf).
-- [World Mobile EarthNode registration contract](https://github.com/nhenin/earthnode-registration-plutus-smart-contract) - follow-up Plutus workstream for operator registration, ENOP NFT lifecycle properties, and registration/update/deregistration logic; see the upstream [World Mobile PR #8](https://github.com/worldmobilegroup/earthnode-registration-plutus-smart-contract/pull/8).
+- [World Mobile EarthNode registration contract](https://github.com/nhenin/earthnode-registration-plutus-smart-contract/tree/nixified-project) - follow-up Plutus workstream for operator registration, ENOP NFT lifecycle properties, and registration/update/deregistration logic; see the upstream [World Mobile PR #8](https://github.com/worldmobilegroup/earthnode-registration-plutus-smart-contract/pull/8).
 
 ### Earlier systems and leadership
 
