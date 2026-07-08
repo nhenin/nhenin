@@ -20,6 +20,8 @@ I work mostly with Haskell, Plutus, Marlowe, TypeScript, Scala, Rust, Nix, proto
 
 - [Marlowe Cardano](https://github.com/marlowe-lang/marlowe-cardano) - Haskell implementation of Marlowe on Cardano, including runtime and smart-contract infrastructure.
 - [Marlowe TypeScript SDK](https://github.com/marlowe-lang/marlowe-ts-sdk) - TypeScript SDK for building Marlowe/Cardano applications and contract workflows.
+- [Marlowe Payouts prototype](https://github.com/marlowe-lang/marlowe-payouts) - generic payouts-withdrawal DApp prototype built on Marlowe technology and the TypeScript SDK.
+- [Marlowe Token Plans prototype](https://github.com/marlowe-lang/marlowe-token-plans) - token vesting/plans DApp prototype built on Marlowe technology, including the vesting-contract flow exercised from the SDK examples.
 - [Tokenomia](https://github.com/smart-chain-fr/tokenomia) - Haskell/Plutus tooling for Cardano native tokens, vesting, mint/burn flows, wallet operations, and ICO mechanics for Cardashift.
 - World Mobile EarthNode smart contracts - end-to-end Plutus delivery on Cardano mainnet, taken through external audit by Runtime Verification.
 
