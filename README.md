@@ -1,10 +1,10 @@
 # Nicolas Henin
 
-**Hands-on CTO / Founding Technical Lead | Functional-programming blockchain systems | Haskell / Plutus / ZK | Research-to-production | Cardano @ IOG**
+**Product-minded CTO · I turn deep tech into product direction | Haskell · blockchain-protocol engineer (Cardano/Ouroboros) · Marlowe (founder)**
 
-I am a hands-on technical leader: I frame hard problems, decide the architecture, lead small teams, and still write the Haskell that ships it.
+I am a hands-on technical leader whose real edge is product judgment: when I am handed a narrow technical brief, I turn it into a direction, and I still write the Haskell that ships it.
 
-For 4+ years at Input Output (IOG/IOHK), I have worked at the core of Cardano, where peer-reviewed cryptography meets production code and protocol governance. My edge is taking work from research paper to working system without losing rigor on either side.
+For 4+ years at Input Output (IOG/IOHK), I have worked at the core of Cardano, where peer-reviewed cryptography meets production code and protocol governance. My strongest proof is not code: I am a founder. I founded the Marlowe Language CIC, the independent non-profit that now stewards the Marlowe language after I took it out of IOG, and I drove the Marlowe 2025 Project Catalyst campaign that funded the move, aligning technical roadmap, governance and ecosystem funding strategy.
 
 I work mostly with Haskell, Plutus, Marlowe, TypeScript, Scala, Rust, Nix, protocol design, DSLs, smart contracts, consensus systems, event sourcing, and formal-methods-oriented engineering.
 
@@ -20,6 +20,7 @@ I work mostly with Haskell, Plutus, Marlowe, TypeScript, Scala, Rust, Nix, proto
 
 ### Financial contracts, smart contracts, and SDKs
 
+- [Marlowe Language CIC](https://github.com/marlowe-lang) - **Founder.** I created the Marlowe Language CIC (an independent UK non-profit / Community Interest Company) that now stewards the Marlowe language, and drove the Marlowe 2025 Project Catalyst campaign that funded its move out of IOG: roadmap, governance and ecosystem funding. Founding an organization, not only engineering it.
 - [Marlowe Cardano](https://github.com/marlowe-lang/marlowe-cardano) - Haskell implementation of Marlowe on Cardano, including runtime and smart-contract infrastructure.
 - [Marlowe TypeScript SDK](https://github.com/marlowe-lang/marlowe-ts-sdk) - TypeScript SDK for building Marlowe/Cardano applications and contract workflows.
 - [Marlowe Payouts prototype](https://github.com/marlowe-lang/marlowe-payouts) - generic payouts-withdrawal DApp prototype built on Marlowe technology and the TypeScript SDK.
@@ -38,7 +39,7 @@ I work mostly with Haskell, Plutus, Marlowe, TypeScript, Scala, Rust, Nix, proto
 
 Many repositories on this account are forks used for upstream work, experiments, or work branches. The best entry points are the selected projects above and the pinned repositories. They represent the work I would want a recruiter, founder, or engineering leader to inspect first.
 
-I am most interested in hands-on CTO, founding engineer, principal engineer, and technical-lead roles in protocol engineering, programmable finance, applied cryptography, functional programming, or infrastructure-heavy startups.
+I am most interested in product-minded CTO, founding engineer, and technical-lead roles in protocol engineering, programmable finance, applied cryptography, functional programming, or infrastructure-heavy startups: places where deciding the product and building the technology are the same job.
 
 ## Links
 
