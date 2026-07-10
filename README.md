@@ -1,6 +1,6 @@
 # Nicolas Henin
 
-**Product-minded CTO · I turn deep tech into product direction | Haskell · blockchain-protocol engineer (Cardano/Ouroboros) · Marlowe (founder)**
+**Product-minded CTO · I turn deep tech into product direction | Haskell · blockchain-protocol engineer (Cardano/Ouroboros) · Marlowe (CIC founder)**
 
 I am a hands-on technical leader whose real edge is product judgment: when I am handed a narrow technical brief, I turn it into a direction, and I still write the Haskell that ships it.
 
